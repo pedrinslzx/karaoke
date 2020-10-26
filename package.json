@@ -1,8 +1,9 @@
 {
   "name": "gt",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "private": true,
   "dependencies": {
+    "axios": "^0.21.0",
     "polished": "^4.0.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
