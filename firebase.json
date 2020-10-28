@@ -1,7 +1,7 @@
 {
   "hosting": {
-"site": "karaokegospel",
-      	  "public": "build",
+    "site": "karaokegospel",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
